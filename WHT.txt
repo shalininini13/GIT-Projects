@@ -1,0 +1,5 @@
+Hello 
+Today is Wednesday
+Tomorrow is a holiday
+We are in GIT Lab now
+It's 02:25 p.m. now
